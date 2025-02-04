@@ -6,7 +6,7 @@ This project analyzes transaction data to identify the **most profitable product
 ## Dataset
 The analysis is based on two CSV files:
 1. **purchase_behaviour.csv** – Contains customer information (LIFESTAGE and PREMIUM_CUSTOMER classification).
-2. **transaction.csv** – Records individual transactions, including product details, sales, and customer IDs.
+2. **transaction_data.csv** – Records individual transactions, including product details, sales, and customer IDs.
 
 ## Objectives
 - Identify the **top 3 most profitable products** based on total sales.
