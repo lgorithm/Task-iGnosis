@@ -27,12 +27,7 @@ The analysis is based on two CSV files:
 3. **RETIREES (Mainstream buyers)** – $155677.05 total spend
 
 ### **Hypothesis: Why Are These Customers Loyal?**
-✅ **Older Families:** Likely buy in bulk for household needs, looking for affordability and brand familiarity.
-✅ **Midage Singles/Couples:** Have steady incomes, value convenience, and prefer well-known brands.
-
-### **Marketing Recommendations**
-- **For Older Families:** Offer family pack promotions and loyalty discounts.
-- **For Midage Singles/Couples:** Market premium flavors and limited-edition snacks.
+Older families, especially those buying on a budget, are the most loyal and high-spending customers. They likely prioritize value-for-money products, buying larger pack sizes for household consumption. These families may also purchase snacks for kids or gatherings, leading to frequent and high-volume purchases.
 
 ## Tools & Technologies
 - **Python** (Pandas, Matplotlib, Seaborn)
